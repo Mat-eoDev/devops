@@ -26,5 +26,6 @@ Ca doit renvoyer une erreur car vues doit etre un entier.
 ## Docker Hub
 
 ```
-docker pull <username>/mongo-blog:1.0.0
+docker pull matlepirate/blog-hennebellemateo:1.0.0
+docker pull matlepirate/hennebellemateo:1.0.0
 ```
